@@ -1,4 +1,6 @@
--- Meal Planner schema (SQLite)
+-- Created with help from Claude (Anthropic's AI assistant), claude.ai, 2026-11-04 to 2026-11-05.
+-- Purpose: database schema design for the meal planner. 
+--Meal Planner schema (SQLite)
 -- Conventions:
 --   * Money is stored as INTEGER cents (no float rounding bugs)
 --   * All ingredient quantities are in the ingredient's base unit (g, ml, or each),
